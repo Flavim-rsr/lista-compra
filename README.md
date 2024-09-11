@@ -1,13 +1,20 @@
 
 
 
-# Titulo do projeto
+# Carrinho de Compras
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de lista de compras desenvolvida com JavaScript para gerenciar e organizar itens de forma dinâmica
 
 ## 🔨 Funcionalidades do projeto
 
 A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+
+
+
+https://github.com/user-attachments/assets/81a8e2e5-5d92-4c98-89a2-52a1617292bd
+
+
+
 
 
 
@@ -16,12 +23,12 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 As técnicas e tecnologias utilizadas pra isso são:
 
 - `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+- `CSS`: estilização da aplicação, deixar o projeto responsivo;
+- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM, desenvolver validações para possiveis erros.
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+[Baixar a versão mais recente](https://github.com/Flavim-rsr/lista-compra/archive/refs/heads/main.zip)
 
 ## 🛠️ Abrir e rodar o projeto
 
